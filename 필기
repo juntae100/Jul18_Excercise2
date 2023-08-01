@@ -1,0 +1,13 @@
+JavaScript : 웹 브라우저에서 외부와 통신하기, 동적으로 다양한 요소가 움직이게, ...
+node.js : 자바스크립트 실행환경 (서버 프로그래밍 언어)
+    - front-end : JS + Html, css, ... 
+    - back-end : JS + Java, python, php, ...
+    ** node.js는 front-end와 back-end를 아우른다~ (netflix도 node기반)
+
+    chrome V8 JavaScript 엔진으로 만든 JavaScirpt 런타임
+
+    npm(Node Package Manger) : 오픈소스 라이브러리 설치 및 관리(node 설치하면 자동으로 깔림)
+        >> JS개발자들이 유용한 패키지를 만들어 두고, 그 코드들이 공개되어 있는 곳이 npm이다
+        >> Java - Maven / python - pip 같은것!
+
+    node.js 프레임워크가 아님!!! (언어의 실행환경)  / 프레임워크: 스프링, 장고(파이썬)
